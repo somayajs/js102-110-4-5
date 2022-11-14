@@ -1,7 +1,7 @@
 - A div contains a Number
 - a nother div as a counter show the same number and keep decreasing the number untill hits
-  -- a four, it will open google website in another window
-  -- a seven it will open google website in a popup window
-  -- a zero, the count down will stop
+  - a four, it will open google website in another window
+  - a seven it will open google website in a popup window
+  - a zero, the count down will stop
 - I used setInterval for counting down
 - And used clearInterval to stop counting down
